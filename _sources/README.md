@@ -1,3 +1,3 @@
-# jupyter-book-template
+# Hotel market Analysis
 
-This repository hosts the tutorial and template code for building a basic Jupyter Book website.
+This repository hosts the Hotel market analysis for group J2 Informatie visualisatie, KI UVA.
